@@ -1,3 +1,10 @@
+## [1.0.2](https://github.com/act-org/docusaurus-base/compare/v1.0.1...v1.0.2) (2023-03-08)
+
+
+### Bug Fixes
+
+* Update to public ([fd36667](https://github.com/act-org/docusaurus-base/commit/fd36667157c2beba1e154444f5ec9f13520b8a94))
+
 ## [1.0.1](https://github.com/act-org/docusaurus-base/compare/v1.0.0...v1.0.1) (2023-03-08)
 
 
