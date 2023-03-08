@@ -100,6 +100,7 @@ async function createConfig (options) {
         prism: {
           theme: lightCodeTheme,
           darkTheme: darkCodeTheme,
+          additionalLanguages: ['php', 'powershell', 'java', 'lua' ],
         },
         docs: {
           sidebar: {
