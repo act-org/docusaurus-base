@@ -1,3 +1,10 @@
+## [1.0.3](https://github.com/act-org/docusaurus-base/compare/v1.0.2...v1.0.3) (2023-03-09)
+
+
+### Bug Fixes
+
+* Make react import optional with babel ([dad154b](https://github.com/act-org/docusaurus-base/commit/dad154bfd6961bfe8bb0431460ab564c852dc779))
+
 ## [1.0.2](https://github.com/act-org/docusaurus-base/compare/v1.0.1...v1.0.2) (2023-03-08)
 
 
