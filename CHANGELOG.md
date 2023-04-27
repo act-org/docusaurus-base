@@ -1,3 +1,10 @@
+## [1.0.4](https://github.com/act-org/docusaurus-base/compare/v1.0.3...v1.0.4) (2023-04-27)
+
+
+### Bug Fixes
+
+* Update deps minor versions ([8abe72b](https://github.com/act-org/docusaurus-base/commit/8abe72b21a7fb34f96eed984155b078848da6bc0))
+
 ## [1.0.3](https://github.com/act-org/docusaurus-base/compare/v1.0.2...v1.0.3) (2023-03-09)
 
 
